@@ -49,7 +49,7 @@ const ComingSoonCard = () => {
   return (
     <div className="bg-black p-8">
       <div className="flex items-center justify-between">
-        <h1 className="text-xl sm:text-4xl py-12 text-white">COMING SOON</h1>
+        <h1 className="text-xl sm:text-4xl py-12 text-white">LATEST MOVIES</h1>
         <div className="h-1 w-[70%] bg-gradient-to-r from-red-500 to-transparent"></div>
       </div>
       <div className="overflow-x-scroll no-scrollbar">
